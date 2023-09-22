@@ -2,7 +2,9 @@
 # ios_101-lab_2-mario_kart
 Project for iOS 101 Lab 2
 
-For this second lab:
+## For this second lab Required Features
+
+The following **required** functionalities are completed:
 
 - [x] Print something if the optional has a non-nil value
 - [x] Use the powerup on Mario
